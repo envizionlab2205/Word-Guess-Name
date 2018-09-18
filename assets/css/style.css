@@ -1,0 +1,21 @@
+* {
+
+}
+
+body {
+  background-image: url("https://envizionlab.com/wp-content/uploads/2018/09/comicstheme.jpg");
+  background-size: 100%;
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  transform: translateX(-50%)translateY(-50%);
+  text-align: center;
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
